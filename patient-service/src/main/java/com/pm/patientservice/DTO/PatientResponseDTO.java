@@ -3,7 +3,7 @@ package com.pm.patientservice.DTO;
 import org.springframework.stereotype.Component;
 
 @Component
-public class PatientDTO {
+public class PatientResponseDTO {
     private String id;
     private String name;
     private String email;
