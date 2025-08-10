@@ -5,8 +5,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "kafka event2",
-  "email": "kafka2@example.com",
+  "name": "consumer test_afterfailed ",
+  "email": "kafkanew@example.com",
   "address": "White town",
   "dateOfBirth": "1995-09-09",
   "registeredDate": "2024-11-28"
