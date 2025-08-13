@@ -1,2 +1,4 @@
 Docker file commands to be figured out.
+Revise grpc methods
+Api gateway routing using properties
 
