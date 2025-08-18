@@ -1,4 +1,6 @@
 Docker file commands to be figured out.
-Revise grpc methods
-Api gateway routing using properties
+Revise grpc methods and objects.
+Api gateway routing using properties - Done
+JwtFilter on api gateway , auth service - filter
+
 

@@ -3,9 +3,10 @@
 
 POST http://localhost:4004/api/patients
 Content-Type: application/json
+Authorization: {{token}}
 
 {
-  "name": "consumer test_afterfailed ",
+  "name": "consumer test_after for token ",
   "email": "kafkanew@example.com",
   "address": "White town",
   "dateOfBirth": "1995-09-09",
