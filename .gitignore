@@ -1,0 +1,15 @@
+# Development Guide (Personal Study Notes - NOT for GitHub)
+DEVELOPMENT_GUIDE.md
+
+# Personal Notes
+Todo.txt
+
+# Environment Variables - Keep sensitive data secure
+env_variables.txt
+
+# Standard ignores
+target/
+.idea/workspace.xml
+cdk.out/
+*.log
+.DS_Store

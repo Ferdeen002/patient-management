@@ -1,14 +1,14 @@
 
 ###
 
-POST http://localhost:4004/api/patients
+POST http://lb-b9c8bb43.elb.localhost.localstack.cloud:4566/api/patients
 Content-Type: application/json
-Authorization: {{token}}
+Authorization: Bearer {{token}}
 
 {
-  "name": "consumer test_after for token ",
-  "email": "kafkanew@example.com",
-  "address": "White town",
+  "name": "consumesr test_after for token ",
+  "email": "kafkandew@example.com",
+  "address": "Whitse town",
   "dateOfBirth": "1995-09-09",
   "registeredDate": "2024-11-28"
 }
